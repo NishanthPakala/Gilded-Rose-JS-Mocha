@@ -15,7 +15,7 @@ class BaseUpdateStrategy {
     return 50;
   }
 
-  appliesTo(item) {
+  appliesTo() {
     return true;
   }
 
