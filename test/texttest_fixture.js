@@ -11,7 +11,7 @@ const items = [
   new Item("Backstage passes to a TAFKAL80ETC concert", 10, 49),
   new Item("Backstage passes to a TAFKAL80ETC concert", 5, 49),
 
-  // This Conjured item does not work properly yet
+  // New Conjured items are updated in System
   new Item("Conjured Mana Cake", 3, 6),
 ];
 
